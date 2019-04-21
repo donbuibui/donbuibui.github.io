@@ -1,37 +1,20 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, marc, bui, marc bui,]
+date: 2019-04-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><b>Marc Bui</b></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## About me
+A first year Business Economics & Information Technology student at Business Academy Aarhus with an interest in international business, software architecture and cultural competency. 
 
-## Preview
+I have spent 2 years studying as Information Technology Engineer at Aarhus School of Engineering where I enrolled in multiple courses involving software architecture, software design and software construction among other things. I am also an active volunteer at a cultural exchange program where I educate and train exchange students/volunteers in intercultural competency.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Currently, I am seeking opportunities, whether that be student assistant jobs or internships, where I can utilize my experience in information technology, strategic thinking and cultural competency.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+## Contact
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Contact Me](mailto:mail@marcbui.me){: .btn}
