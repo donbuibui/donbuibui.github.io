@@ -4,7 +4,7 @@ bio:                'Business, Coding & Projects '
 description:        "A sandbox for me to play and show others"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/facesmallest.png'
+logo:               'assets/img/facesmall.png'
 background:         'assets/img/geo.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
